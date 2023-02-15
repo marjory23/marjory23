@@ -1,5 +1,5 @@
 ### Hi, I am Marcella 👋
-
+---
 <!--
 **marjory23/marjory23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +25,7 @@ I am a methodical and creative developer, capable of blending imagination and te
 
 Below, you will find some of my recent projects and collaborations:
 
-
+---
 
 #### The recipe Box
 

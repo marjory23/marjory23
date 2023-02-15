@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ### I am a Full-Stack Developer based in London, UK
+
 
 I am proficient in React, Phaser, Express/Koa, MongoDB, and HTML & CSS.
 
@@ -29,11 +31,11 @@ Below, you will find some of my recent projects and collaborations:
 
 The Recipe Box is a recipe finder tool that lets users search by ingredients and post their own recipes.
 
-
+<!--
 #### Swoop
 
 Swoop is an e-commerce platform that allows users to post and purchase items. 
-
+-->
 
 #### Babble Island
 

@@ -23,13 +23,17 @@ I am a methodical and creative developer, capable of blending imagination and te
 
 Below, you will find some of my recent projects and collaborations:
 
+
+
 #### The recipe Box
 
 The Recipe Box is a recipe finder tool that lets users search by ingredients and post their own recipes.
 
+
 #### Swoop
 
 Swoop is an e-commerce platform that allows users to post and purchase items. 
+
 
 #### Babble Island
 
